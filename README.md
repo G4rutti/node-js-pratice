@@ -1,5 +1,4 @@
 <h1>Curso prático de node.js</h1>.
-<script src="https://kit.fontawesome.com/d4c0dbaccd.js" crossorigin="anonymous"></script>
 
 <p>Curso disponibilizado pela organização de educação: <a href="https://jornadadodev.com.br/cursos/back-end/nodejs">Jornada do dev</a></p>
 
@@ -12,7 +11,7 @@ Ao final do curso, você terá adquirido um amplo conhecimento sobre a plataform
 
 <h2>Módulos do curso</h2>
 <ol>
-<li>Baixar e instalar o NodeJS. Testar e instalar ferramentas extras<i class="fa-solid fa-check"></i></li>
+<li>Baixar e instalar o NodeJS. Testar e instalar ferramentas extras</li>
 <li>Criar projeto. API REST, Express, Rotas e Nodemon</li>
 <li>Criar Rotas GET com Express, Refatorar Código, Extensão JSON Viewer</li>
 <li>Criar Rotas POST com Express, Como usar o Insomnia</li>
@@ -28,3 +27,23 @@ Ao final do curso, você terá adquirido um amplo conhecimento sobre a plataform
 <li>Correção do app.js. Ordem correta de chamada do app.use(routes) #nodejs #js #api #rest #dev</li>
 <li>Curso de Node JS EXTRA Como instalar NVM e Hyper Terminal</li>
 </ol>
+
+<h2>Passos do curso:</h2>
+<ol>
+<li>Abrir o terminal</li>
+<li>Digitar: npm init -y</li>
+<li>Digitar: npm install express --save</li>
+<li>npm install nodemon -D</li>
+<li>Vá em packages.json</li>
+<li>Digitar: "dev": "nodemon {caminho do arquivo onde o express está lendo o servidor}",</li>
+<li>Digitar: "npm run dev" no teminal</li>
+<li>Digite Ctrl + C no termnal para parar</li>
+<li>Caso queira importar variáveis ou funções de arquivos diferentes:<br>
+    <ol>
+        <li>Vá em packages.json</li>
+        <li>Digite: "type": "module", -> em baixo do "main"</li>
+    </ol>
+</li>
+</ol>
+
+<!-- <li>Digitar:</li> -->
