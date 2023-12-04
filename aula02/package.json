@@ -1,18 +1,19 @@
 {
-  "name": "aula02",
+  "name": "js-pratice",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1>Curso prático de node.js</h1>.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "dev": "nodemon server.js",
+    "dev": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.2"
   }
 }
