@@ -1,4 +1,5 @@
-<h1>Curso prático de node.js</h1>
+<h1>Curso prático de node.js</h1>.
+<script src="https://kit.fontawesome.com/d4c0dbaccd.js" crossorigin="anonymous"></script>
 
 <p>Curso disponibilizado pela organização de educação: <a href="https://jornadadodev.com.br/cursos/back-end/nodejs">Jornada do dev</a></p>
 
@@ -11,7 +12,7 @@ Ao final do curso, você terá adquirido um amplo conhecimento sobre a plataform
 
 <h2>Módulos do curso</h2>
 <ol>
-<li>Baixar e instalar o NodeJS. Testar e instalar ferramentas extras</li>
+<li>Baixar e instalar o NodeJS. Testar e instalar ferramentas extras<i class="fa-solid fa-check"></i></li>
 <li>Criar projeto. API REST, Express, Rotas e Nodemon</li>
 <li>Criar Rotas GET com Express, Refatorar Código, Extensão JSON Viewer</li>
 <li>Criar Rotas POST com Express, Como usar o Insomnia</li>
