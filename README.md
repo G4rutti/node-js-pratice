@@ -1,5 +1,4 @@
-<h1>Curso prático de node.js</h1>.
-
+<h1>Curso prático de node.js</h1>
 <p>Curso disponibilizado pela organização de educação: <a href="https://jornadadodev.com.br/cursos/back-end/nodejs">Jornada do dev</a></p>
 
 <h2>Sobre o curso:</h2>
