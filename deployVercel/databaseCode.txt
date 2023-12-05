@@ -1,0 +1,12 @@
+CREATE SCHEMA `dbcopadomundo` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ;
+
+CREATE TABLE `dbcopadomundo`.`selecoes` (
+  `idselecoes` INT NOT NULL AUTO_INCREMENT,
+  `selecao` VARCHAR(100) NOT NULL,
+  `grupo` VARCHAR(1) NOT NULL,
+  PRIMARY KEY (`idselecoes`));
+
+INSERT INTO `dbcopadomundo`.`selecoes` (`selecao`, `grupo`) VALUES ('Catar', 'A');
+INSERT INTO `dbcopadomundo`.`selecoes` (`selecao`, `grupo`) VALUES ('Holanda', 'A');
+INSERT INTO `dbcopadomundo`.`selecoes` (`selecao`, `grupo`) VALUES ('Senegal', 'A');
+INSERT INTO `dbcopadomundo`.`selecoes` (`selecao`, `grupo`) VALUES ('Equador', 'A');
